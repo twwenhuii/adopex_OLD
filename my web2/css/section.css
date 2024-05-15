@@ -1,0 +1,123 @@
+tr,th,td{
+    padding: 5px;
+    font-size: 70px;
+}
+th{
+    color: #4B3300;
+}
+table{
+    margin-left: 0;
+    margin-right: 80%;
+    width: 80%;
+    padding-top: 12%;
+}
+body{text-align: center;}
+#B{
+    text-align: left;
+    padding-left: 220px;
+}
+#C{
+    text-align: left;
+    padding-left: 220px;
+    font-size: 30px;
+}
+a#RMore{
+    display: block;
+    background-color: black;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+body{
+    height: 500px;
+}
+#IF1{
+    margin-left: 540px;
+    margin-right: 360px;
+    margin-top: 1%;
+    font-size: 23px;
+    padding: 5px;
+    background-color: #FFDF99;
+    color: #4B3300;
+}
+#IF2{
+    margin-left: 540px;
+    margin-right: 360px;
+    margin-top: 20%;
+    font-size: 23px;
+    padding: 5px;
+    background-color: #FFDF99;
+    color: #4B3300;
+}
+#TT{
+    padding-top: 50px;
+    padding-left: 0px;
+    padding-right: 490px;
+    color: #4B3300;
+}
+#CM{
+    padding-top: 20px;
+    font-size: 55px;
+}
+#ST{
+    margin-top: 10px;
+    font-size: 25px;
+}
+.TC{
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-bottom: 50px;
+    padding-top: 0%;
+}
+h2{
+    font-size: 35px;
+}
+#NT{
+    border: 0px solid #FFB312;
+    float: left;
+    margin-left: 410px;
+    margin-top: 58px;
+    width: 280px;
+    height: 40px;
+    background-color: #FFB312;
+}
+#MT{
+    border: 0px solid #FFB312;
+    margin-left: 773px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 275px;
+    height: 145px;
+    background-color: #FFB312;
+    float: left;
+    align-content: center;
+}
+#ET{
+    border: 0px solid #FFB312;
+    float: left;
+    margin-left: 0px;
+    margin-right: 600px;
+    margin-top: 0px;
+    margin-left: 410px;
+    width: 280px;
+    height: 40px;
+    background-color: #FFB312;
+}
+a#Send{
+    display: block;
+    background: #FFB312;
+    width: 80px;
+    padding: 10px;
+    color: #4B3300;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px #FFFAF0;
+    margin-left: 410px;
+    margin-top: 400px;
+}
